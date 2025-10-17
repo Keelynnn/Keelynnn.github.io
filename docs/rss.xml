@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Keelyn's Blog</title><link>https://Keelynnn.github.io</link><description>我们总有道路</description><copyright>Keelyn's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/135981318?v=4&amp;size=64</url><title>avatar</title><link>https://Keelynnn.github.io</link></image><lastBuildDate>Fri, 17 Oct 2025 15:09:14 +0000</lastBuildDate><managingEditor>Keelyn's Blog</managingEditor><ttl>60</ttl><webMaster>Keelyn's Blog</webMaster><item><title>数字信号处理学习记录</title><link>https://Keelynnn.github.io/post/shu-zi-xin-hao-chu-li-xue-xi-ji-lu.html</link><description># 常见基本信号（Signal and System)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Keelyn's Blog</title><link>https://Keelynnn.github.io</link><description>我们总有道路</description><copyright>Keelyn's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/135981318?v=4&amp;size=64</url><title>avatar</title><link>https://Keelynnn.github.io</link></image><lastBuildDate>Fri, 17 Oct 2025 15:20:11 +0000</lastBuildDate><managingEditor>Keelyn's Blog</managingEditor><ttl>60</ttl><webMaster>Keelyn's Blog</webMaster><item><title>数字信号处理学习记录</title><link>https://Keelynnn.github.io/post/shu-zi-xin-hao-chu-li-xue-xi-ji-lu.html</link><description># 常见基本信号（Signal and System)
 ## 连续时间信号（Continuous-Time Signal）
 ### 连续时间正弦信号（Continuous-Time Sinusoidal Signal）
+- 正弦信号定义式：
 $x(t)=A\sin{(\omega_0 t+\phi)} , 式中A为振幅，\omega_0为频率，\phi为相位$
+- 正弦信号周期：
+$$T_0=\frac{2\pi}{\omega_0}$$
+- **Time Shift t⇌ Phase Change**
 ## 离散时间信号（Discrete-Time Signal）。</description><guid isPermaLink="true">https://Keelynnn.github.io/post/shu-zi-xin-hao-chu-li-xue-xi-ji-lu.html</guid><pubDate>Fri, 17 Oct 2025 09:01:18 +0000</pubDate></item></channel></rss>
