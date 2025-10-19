@@ -109,7 +109,7 @@ print(learning_language)
 ## 2.2.5 删除前缀
 假定一个URL包含常见前缀https://，但是使用中不想保留，可使用removeprefix()方法
 ```python
-eg 2.14
+#eg 2.14
 a_url='https://markdown.com.cn/'
 print(a_url.removeprefix('https://'))
 #输出结果为markdown.com.cn/
